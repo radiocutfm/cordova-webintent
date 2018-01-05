@@ -16,7 +16,7 @@
     "cordova",
     "webintent",
     "ecosystem:cordova",
-    "cordova-android",
+    "cordova-android"
   ],
   "license": "MIT"
 }
